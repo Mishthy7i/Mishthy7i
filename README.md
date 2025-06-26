@@ -4,8 +4,8 @@
 - 🔭 I’m currently learning **Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mishthy7i/Mishthy7i](https://github.com/Mishthy7i/Mishthy7i)
-
-<h3 align="left">Connect with me:</h3>
+- 🤝Connect with me: [www.linkedin.com/in/mishthy-soni](www.linkedin.com/in/mishthy-soni)
+<h3 align="left">Connect with me: www.linkedin.com/in/mishthy-soni</h3>
 <p align="left">
 </p>
 
